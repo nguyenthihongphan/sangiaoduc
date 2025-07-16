@@ -1,0 +1,33 @@
+.mt{
+    color: brown;
+    font-weight: 600;
+
+}
+.review, .review-core{
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    font-weight: 700;
+    justify-content: center;
+    background-color: #d1e7dd;
+    color: #0f5132;
+    border: none;
+    width: 100px;
+    border-radius: 10px;
+}
+.ud{
+    font-weight: 700;
+}
+.price-r{
+    color: brown;
+    font-size: 32px;
+}
+.product-buy{
+    font-size: 20px;
+}
+.product-main-img{
+    width: 350px;
+}
+.product-main-text{
+    font-size: 16px;
+}

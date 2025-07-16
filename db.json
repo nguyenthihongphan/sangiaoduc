@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "phannguyen2246@gmail.com",
+      "password": "123456",
+      "name": "Nguyễn Thị Hồng Phấn"
+    }
+  ],
+  "suggestions": [
+  {
+    "id": 1,
+      "products":[
+      {
+        "id": 101,
+        "name": "Khóa học Cơ bản",
+        "context": "Xử lý dữ liệu từ Internet và quản lý trạng thái ứng dụng",
+        "image": "/images/product_9.png",
+        "price": 2
+      },
+      {
+        "id": 102,
+        "name": "Khóa học ANDROID",
+        "context": "Có khả năng tạo được những ứng dụng Android, ứng dụng game Android",
+        "image": "/images/product_11.png",
+        "price": 3
+      },
+      {
+        "id": 103,
+        "name": "Tiếng anh Online",
+        "context": "Phát triển kỹ năng ngôn ngữ một cách hiệu quả",
+        "image": "/images/product_12.png",
+        "price": 2
+      },
+      {
+        "id": 104,
+        "name": "Tiếng anh giao tiếp",
+        "context": "Daayd đủ kiến thức về từ vựng giao tiếp",
+        "image": "/images/product_10.png",
+        "price": 4
+      }
+    ]
+
+  }
+],
+"products": [
+    {
+      "id": 1,
+      "name": "Khóa học Toiec 650+",
+      "context": "Củng cố hệ thống 600 từ vựng quan trọng trong Toeic",
+      "dec":"- Cung cấp nền tảng toàn diện về từ vựng, ngữ pháp và phát âm, giúp học viên có khả năng diễn đạt các ý tưởng cơ bản một cách rõ ràng và dễ hiểu.Trang bị cho người học các công cụ ngôn ngữ cần thiết để tự tin giao tiếp bằng tiếng Anh trong những tình huống hàng ngày. Củng cố khả năng đọc và nghe hiểu những thông tin chính từ các đoạn hội thoại hoặc văn bản tiếng Anh ở mức độ cơ bản.",
+      "image": "/images/product_1.png",
+      "price": 5.000
+    },
+    {
+      "id": 2,
+      "name": "Luyện thi Toiec",
+      "context": "Hoàn thiện ngữ pháp và từ vựng nâng cao ở band điểm 800",
+      "image": "/images/product_2.png",
+      "price": 6.000,
+      "dec":"- Cung cấp nền tảng toàn diện về từ vựng, ngữ pháp và phát âm, giúp học viên có khả năng diễn đạt các ý tưởng cơ bản một cách rõ ràng và dễ hiểu.Trang bị cho người học các công cụ ngôn ngữ cần thiết để tự tin giao tiếp bằng tiếng Anh trong những tình huống hàng ngày. Củng cố khả năng đọc và nghe hiểu những thông tin chính từ các đoạn hội thoại hoặc văn bản tiếng Anh ở mức độ cơ bản."
+
+    },
+    {
+    "id": 3,
+    "name": "Khóa học Toiec OLPC",
+    "context": "Thi thử và chữa bài chuyên sâu",
+    "image": "/images/product_3.png",
+    "price": 3,
+    "dec":"- Cung cấp nền tảng toàn diện về từ vựng, ngữ pháp và phát âm, giúp học viên có khả năng diễn đạt các ý tưởng cơ bản một cách rõ ràng và dễ hiểu.Trang bị cho người học các công cụ ngôn ngữ cần thiết để tự tin giao tiếp bằng tiếng Anh trong những tình huống hàng ngày. Củng cố khả năng đọc và nghe hiểu những thông tin chính từ các đoạn hội thoại hoặc văn bản tiếng Anh ở mức độ cơ bản."
+
+  },
+  {
+    "id": 4,
+    "name": "Khóa học IELTS",
+    "context": "Xây dựng từ vựng, ngữ pháp chuẩn IELTS",
+    "image": "/images/product_7.png",
+    "price": 1,
+    "dec":"- Cung cấp nền tảng toàn diện về từ vựng, ngữ pháp và phát âm, giúp học viên có khả năng diễn đạt các ý tưởng cơ bản một cách rõ ràng và dễ hiểu.Trang bị cho người học các công cụ ngôn ngữ cần thiết để tự tin giao tiếp bằng tiếng Anh trong những tình huống hàng ngày. Củng cố khả năng đọc và nghe hiểu những thông tin chính từ các đoạn hội thoại hoặc văn bản tiếng Anh ở mức độ cơ bản."   
+  },
+  {
+    "id": 5,
+    "name": "Chinh phục IELTS",
+    "context": "Nắm vững các DẠNG CÂU HỎI của từng phần thi",
+    "image": "/images/product_8.png",
+    "price": 3,
+    "dec":"- Cung cấp nền tảng toàn diện về từ vựng, ngữ pháp và phát âm, giúp học viên có khả năng diễn đạt các ý tưởng cơ bản một cách rõ ràng và dễ hiểu.Trang bị cho người học các công cụ ngôn ngữ cần thiết để tự tin giao tiếp bằng tiếng Anh trong những tình huống hàng ngày. Củng cố khả năng đọc và nghe hiểu những thông tin chính từ các đoạn hội thoại hoặc văn bản tiếng Anh ở mức độ cơ bản."
+  },
+  {
+    "id": 6,
+    "name": "Khóa học Flutter",
+    "context": "Được review bài ngay trên máy học viên",
+    "image": "/images/product_4.png",
+    "price": 2,
+    "dec":"Đội ngũ giảng viên giàu kinh nghiệm, tốt nghiệp trường Đại học Công nghệ lớn có ít nhất 5 năm kinh nghiệm trong nghề, kỹ năng sư phạm được đào tạo chặt chẽ giúp học viên tiếp thu kiến thức một cách dễ hiểu, đầy đủ."
+  },
+  {
+    "id": 7,
+    "name": "Khóa học Java",
+    "context": "Thời gian thực hành lên tới 80% thời gian học",
+    "image": "/images/product_5.png",
+    "price": 1,
+    "dec":"Chương trình đào tạo được biên soạn cô đọng, súc tính, đảm bảo tính thực tiễn, giúp cho học viên mô phỏng công việc thực tế sau khi kết thúc quá trình học tập."
+  },
+  {
+    "id": 8,
+    "name": "Java nâng cao",
+    "context": "Trực quan cùng những ví dụ code dễ hiểu",
+    "image": "/images/product_6.png",
+    "price": 3,
+    "dec":"Chương trình đào tạo được biên soạn cô đọng, súc tính, đảm bảo tính thực tiễn, giúp cho học viên mô phỏng công việc thực tế sau khi kết thúc quá trình học tập."
+
+  }
+  ]
+}

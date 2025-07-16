@@ -1,0 +1,18 @@
+.course-loadmore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 49px;
+    border-radius: 60px;
+    background: #ededed;
+    font-size: 16px;
+    width: 233px;
+    cursor: pointer;
+    margin: 0px auto 50px auto;
+    font-style: italic;
+}
+.course-loadmore a{
+   text-decoration: none;
+    color: #787878;
+   
+}

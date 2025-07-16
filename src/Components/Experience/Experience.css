@@ -1,0 +1,21 @@
+.exp-text h5{
+    color: rgb(42, 165, 99);
+    font-weight: 700;
+}
+.exp-grid-text{
+   background-color: rgb(223, 144, 25);
+  border-radius: 10px 1px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transform: translateX(100px);
+  transition: all 0.8s ease-in-out;
+}
+
+.exp-grid-text.from-left {
+  transform: translateX(-100px);
+}
+
+.exp-grid-text.active {
+  opacity: 1;
+  transform: translateX(0);
+}
